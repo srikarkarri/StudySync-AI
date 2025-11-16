@@ -1,0 +1,7 @@
+{
+  "name": "StudySync AI",
+  "description": "An AI-powered productivity tool for students to transform lectures and notes into effective study sessions. Features include AI-driven transcription, summarization, quiz generation, and focused study timers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
