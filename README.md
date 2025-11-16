@@ -104,8 +104,6 @@ Scientifically-timed review scheduling based on the Ebbinghaus forgetting curve:
 - **Upcoming Reviews Dashboard**: See all scheduled reviews at a glance
 - **Spaced Repetition Algorithm**: Increases long-term retention by 60% vs traditional cramming
 
-![Forgetting Curve](./screenshots/analytics.png)
-
 ---
 
 ### 💬 AI Tutor Chat ("Sync")
