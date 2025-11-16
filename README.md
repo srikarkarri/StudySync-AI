@@ -52,7 +52,7 @@ Transform any lecture into comprehensive study materials instantly:
 - **Cornell Notes System**: Auto-structured notes using the proven Cornell method
 - **Mastery Tracking**: Monitor your understanding level for each lecture (e.g., 85% mastery)
 
-![Lecture Processing](./screenshots/lecture-upload.png)
+![Lecture Processing](./screenshots/my-lectures.png)
 
 ---
 
