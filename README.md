@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-**[Live Demo](https://studysync-ai.vercel.app)** • **[Report Bug](https://github.com/yourusername/studysync-ai/issues)** • **[Request Feature](https://github.com/yourusername/studysync-ai/issues)**
+**[Live Demo](https://studysync-ai.vercel.app)** • **[Request Feature](https://github.com/yourusername/studysync-ai/issues)**
 
 ![StudySync AI Dashboard](./screenshots/dashboard.png)
 
