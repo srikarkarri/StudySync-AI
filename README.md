@@ -442,19 +442,7 @@ This project wouldn't be possible without:
 
 Built with ❤️ for **Student Hackpad 2025** by:
 
-- **Your Name** - Lead Developer - [@yourtwitter](https://twitter.com/yourtwitter)
-- **Team Member 2** - UI/UX Designer - [@theirtwitter](https://twitter.com/theirtwitter)
-
----
-
-## 📞 Contact & Support
-
-Need help? Want to collaborate? Reach out:
-
-- **Email**: support@studysync-ai.com
-- **Twitter**: [@StudySyncAI](https://twitter.com/StudySyncAI)
-- **Discord**: [Join our community](https://discord.gg/studysync)
-- **GitHub Issues**: [Report problems](https://github.com/yourusername/studysync-ai/issues)
+- **Srikar Karri** - Lead Developer - [@yourtwitter](https://twitter.com/yourtwitter)
 
 ---
 
