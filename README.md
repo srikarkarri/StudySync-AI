@@ -4,7 +4,7 @@
 
 ### Transform Your Lectures into Interactive and Effective Study Sessions with AI
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/studysync-ai?style=social)](https://github.com/yourusername/studysync-ai/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/srikarkarri/studysync-ai?style=social)](https://github.com/srikarkarri/studysync-ai/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
@@ -295,7 +295,7 @@ Navigate to `http://localhost:5173` (or the port shown in your terminal)
 
 ---
 
-## 📊 Impact & Results
+## 📊 Anticipated Impact & Results
 
 Based on our testing and user feedback:
 
@@ -368,29 +368,11 @@ We welcome contributions from the community! Here's how you can help:
 - Update documentation as needed
 - Test on multiple browsers (Chrome, Firefox, Safari)
 
-### Areas We Need Help
-
-- 🐛 Bug fixes and performance improvements
-- 🎨 UI/UX enhancements
-- 📱 Mobile responsiveness
-- ♿ Accessibility improvements
-- 🌍 Internationalization (i18n)
-- 📖 Documentation and tutorials
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
-
 ---
 
-## 🐛 Bug Reports & Feature Requests
+## Feature Requests
 
-Found a bug or have an idea? [Open an issue](https://github.com/yourusername/studysync-ai/issues)
-
-**When reporting bugs, please include:**
-- Clear description of the issue
-- Steps to reproduce the bug
-- Expected vs actual behavior
-- Screenshots (if applicable)
-- Browser and OS information
+Have an idea? [Open an issue](https://github.com/yourusername/studysync-ai/issues)
 
 **For feature requests, please describe:**
 - The problem you're trying to solve
@@ -434,7 +416,6 @@ This project wouldn't be possible without:
 - **Recharts** for beautiful data visualizations
 - **Tailwind CSS** for the amazing utility-first framework
 - **Student Hackpad 2025** for the opportunity and inspiration
-- All the students who tested early versions and provided feedback
 
 ---
 
@@ -442,17 +423,17 @@ This project wouldn't be possible without:
 
 Built with ❤️ for **Student Hackpad 2025** by:
 
-- **Srikar Karri** - Lead Developer - [@yourtwitter](https://twitter.com/yourtwitter)
+- **Srikar Karri** - Lead Developer
 
 ---
 
 ## 📈 Project Statistics
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/studysync-ai)
-![GitHub contributors](https://img.shields.io/github/contributors/yourusername/studysync-ai)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/studysync-ai)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/studysync-ai)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/studysync-ai)
+![GitHub repo size](https://img.shields.io/github/repo-size/srikarkarri/studysync-ai)
+![GitHub contributors](https://img.shields.io/github/contributors/srikarkarri/studysync-ai)
+![GitHub last commit](https://img.shields.io/github/last-commit/srikarkarri/studysync-ai)
+![GitHub issues](https://img.shields.io/github/issues/srikarkarri/studysync-ai)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/srikarkarri/studysync-ai)
 
 ---
 
@@ -461,7 +442,6 @@ Built with ❤️ for **Student Hackpad 2025** by:
 If StudySync AI helped you study smarter, please:
 
 - ⭐ **Star this repository** to show your support
-- 🐦 **Tweet about it** and tag us [@StudySyncAI](https://twitter.com/StudySyncAI)
 - 📢 **Share with classmates** who could benefit
 - 🤝 **Contribute** to make it even better
 
@@ -473,7 +453,7 @@ If StudySync AI helped you study smarter, please:
 
 **StudySync AI** - *Learn smarter, not harder*
 
-[⭐ Star](https://github.com/yourusername/studysync-ai) • [🐛 Report Bug](https://github.com/yourusername/studysync-ai/issues) • [💡 Request Feature](https://github.com/yourusername/studysync-ai/issues) • [📖 Documentation](https://docs.studysync-ai.com)
+[⭐ Star](https://github.com/srikarkarri/studysync-ai) • [💡 Request Feature](https://github.com/srikarkarri/studysync-ai/issues)
 
 *Made with 💜 by students, for students*
 
