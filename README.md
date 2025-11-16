@@ -116,6 +116,8 @@ Your personal study companion powered by Google Gemini:
 - **Persistent Access**: Chat remains available throughout your session
 - **Clarification on Demand**: Get instant explanations when stuck on concepts
 
+![Sync in Action](./screenshots/sync.png)
+
 ---
 
 ### 📊 Comprehensive Progress Analytics
